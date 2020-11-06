@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "centro-carnes"
+    }
+  },
+  "defaultProject": "centro-carnes",
+  "cli": {
+    "analytics": "35bab3bc-6292-4674-9f46-deb6b11d432f"
+  }
 }
